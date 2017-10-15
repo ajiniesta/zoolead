@@ -2,7 +2,7 @@
 
 Test project combining with JavaFX to show the leader election algorithm provided by Apache Curator.
 
-#Execute this test
+# Execute this test
 
 First you need to compile, then execute the server side(optional) and finally executes as many clients as you wish for tests.
 
@@ -41,3 +41,4 @@ $ java -cp target/zooleader-1.0-SNAPSHOT-jar-with-dependencies.jar com.iniesta.z
 
 Where *localhost:2181* is connection string to the zookeeper server and */zoolead* is the znode used by the leader election algorithm to make the synchronizations between all the connected clients.
 
+Have a great visit to the zoo! :)
