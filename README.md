@@ -41,4 +41,4 @@ $ java -cp target/zooleader-1.0-SNAPSHOT-jar-with-dependencies.jar com.iniesta.z
 
 Where *localhost:2181* is connection string to the zookeeper server and */zoolead* is the znode used by the leader election algorithm to make the synchronizations between all the connected clients.
 
-Have a great visit to the zoo! :)
+Have a great visit to the zoo! :smile:
